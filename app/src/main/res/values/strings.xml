@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment 1 Comp438</string>
+    <string name="appTitle">Guess The NUMBER!</string>
+    <string name="entryField">Enter Your Number Here</string>
+    <string name="regenerateRandomNum">Randomize!</string>
+    <string name="checkEntry">Guess!</string>
+    <string name="appTitle2">(0-1000)</string>
+</resources>
